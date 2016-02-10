@@ -1,3 +1,7 @@
+*.swp
+*.sh
+kpopper
+
 # Object files
 *.o
 *.ko
